@@ -1,0 +1,4 @@
+See file:///C:/Users/gprec/Desktop/FTRapidReact-2023-Version/build/tmp/linkFrcUserProgramLinuxathenaDebugExecutable/output.txt for all output for linkFrcUserProgramLinuxathenaDebugExecutable.
+linking frcUserProgram successful.
+
+Finished linkFrcUserProgramLinuxathenaDebugExecutable, see full log file:///C:/Users/gprec/Desktop/FTRapidReact-2023-Version/build/tmp/linkFrcUserProgramLinuxathenaDebugExecutable/output.txt.

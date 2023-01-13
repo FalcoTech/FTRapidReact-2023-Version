@@ -1,0 +1,11 @@
+See file:///C:/Users/gprec/Desktop/FTRapidReact-2023-Version/build/tmp/compileFrcUserProgramLinuxathenaReleaseExecutableFrcUserProgramCpp/output.txt for all output for compileFrcUserProgramLinuxathenaReleaseExecutableFrcUserProgramCpp.
+compiling Robot.cpp successful.
+C:\Users\gprec\Desktop\FTRapidReact-2023-Version\src\main\cpp\Robot.cpp: In member function 'virtual void Robot::TeleopPeriodic()':
+C:\Users\gprec\Desktop\FTRapidReact-2023-Version\src\main\cpp\Robot.cpp:699:10: warning: unused variable 'output' [-Wunused-variable]
+  699 |   double output = std::clamp(m_shooterPID.Calculate(shooterRPM), shooterMinRPM, shooterMaxRPM);
+      |          ^~~~~~
+C:\Users\gprec\Desktop\FTRapidReact-2023-Version\src\main\cpp\Robot.cpp:748:10: warning: variable 'turningRate' set but not used [-Wunused-but-set-variable]
+  748 |   double turningRate;
+      |          ^~~~~~~~~~~
+
+Finished compileFrcUserProgramLinuxathenaReleaseExecutableFrcUserProgramCpp, see full log file:///C:/Users/gprec/Desktop/FTRapidReact-2023-Version/build/tmp/compileFrcUserProgramLinuxathenaReleaseExecutableFrcUserProgramCpp/output.txt.
